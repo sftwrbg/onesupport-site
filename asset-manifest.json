@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/onesupport-site/static/css/main.22483dae.chunk.css",
+    "main.js": "/onesupport-site/static/js/main.ef4b8ebb.chunk.js",
+    "main.js.map": "/onesupport-site/static/js/main.ef4b8ebb.chunk.js.map",
+    "runtime-main.js": "/onesupport-site/static/js/runtime-main.f2d07f5d.js",
+    "runtime-main.js.map": "/onesupport-site/static/js/runtime-main.f2d07f5d.js.map",
+    "static/css/2.50a5f423.chunk.css": "/onesupport-site/static/css/2.50a5f423.chunk.css",
+    "static/js/2.ffbf1ee5.chunk.js": "/onesupport-site/static/js/2.ffbf1ee5.chunk.js",
+    "static/js/2.ffbf1ee5.chunk.js.map": "/onesupport-site/static/js/2.ffbf1ee5.chunk.js.map",
+    "index.html": "/onesupport-site/index.html",
+    "precache-manifest.8238ebcdd8cb7b32c93c012972c97db8.js": "/onesupport-site/precache-manifest.8238ebcdd8cb7b32c93c012972c97db8.js",
+    "service-worker.js": "/onesupport-site/service-worker.js",
+    "static/css/2.50a5f423.chunk.css.map": "/onesupport-site/static/css/2.50a5f423.chunk.css.map",
+    "static/css/main.22483dae.chunk.css.map": "/onesupport-site/static/css/main.22483dae.chunk.css.map",
+    "static/js/2.ffbf1ee5.chunk.js.LICENSE.txt": "/onesupport-site/static/js/2.ffbf1ee5.chunk.js.LICENSE.txt",
+    "static/media/OneSupportLogoNewColor.c50d65db.png": "/onesupport-site/static/media/OneSupportLogoNewColor.c50d65db.png",
+    "static/media/PicDivider.css": "/onesupport-site/static/media/Sydney22.fab1a793.png",
+    "static/media/cloud-solid.svg": "/onesupport-site/static/media/cloud-solid.3052c53b.svg",
+    "static/media/cpuperson.svg": "/onesupport-site/static/media/cpuperson.2bb0f22e.svg",
+    "static/media/database-solid.svg": "/onesupport-site/static/media/database-solid.1d23af98.svg",
+    "static/media/headset-solid.svg": "/onesupport-site/static/media/headset-solid.05cbc704.svg",
+    "static/media/heartbeat-solid.svg": "/onesupport-site/static/media/heartbeat-solid.ee3b81c9.svg",
+    "static/media/managedservice-solid.svg": "/onesupport-site/static/media/managedservice-solid.be2a454d.svg",
+    "static/media/tasks-solid.svg": "/onesupport-site/static/media/tasks-solid.f41361d1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2d07f5d.js",
+    "static/css/2.50a5f423.chunk.css",
+    "static/js/2.ffbf1ee5.chunk.js",
+    "static/css/main.22483dae.chunk.css",
+    "static/js/main.ef4b8ebb.chunk.js"
+  ]
+}
